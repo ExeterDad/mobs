@@ -10,6 +10,7 @@ dofile(minetest.get_modpath("mobs").."/rat.lua")
 dofile(minetest.get_modpath("mobs").."/sheep.lua")
 dofile(minetest.get_modpath("mobs").."/warthog.lua")
 dofile(minetest.get_modpath("mobs").."/bee.lua")
+dofile(minetest.get_modpath("mobs").."/bunny.lua")
 
 -- Monsters
 
